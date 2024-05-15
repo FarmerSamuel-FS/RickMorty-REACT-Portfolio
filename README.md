@@ -119,31 +119,46 @@ Please discuss the following:
 - Used in our Submit Page for users to submit a character we do not have in our API data with a form submission area including a upload photo section also.    
 - Again used in our Submit page setup for users to submit any new characters they did not find using the search page.
 
-
-
-
 <br>
 
 ### Milestone 4
-⚙️ Overview - Write overview here.
+⚙️ Overview - Requirements For Milestone #4
+Full-styled project using Tailwind, Bootstrap, or any other framework/library of your choosing.
+Your project/app should look visually appealing and must be easy for the end user to use, navigate, and understand.
+Each page should contain real data and no placeholder or empty pages.
+Fix or update any last-minute issues found since Milestone #3.
+Docs
+Update your Readme file with your progress so far. It should contain at least the following information:
+The name of the framework/library that you have chosen for this project.
+A brief explanation of why you chose that specific one.
+A brief explanation of any functionality code that you updated since Milestone #3.
+Any other enhancements or features that you would like to make in the features.
+Reminder, if this is not done, your project will not be graded.
 <br>
-🌵 Challenges - Write challenges here.
+🌵 Challenges - My toughest Challenge this week along with Time Management was styling my Api search bar with our setup, as well as getting all the fine little tweaks just right in order to have a more smooth and professional setup look. 
 <br>
-🏆 Accomplishments - Write Accomplishments here.
+🏆 Accomplishments - I succesfully refractored my entire project and used as little .css as possible instead using our tailwindcss properites to style 90% of our project.
 <br>
-🔮 Next Steps - Write your next steps here.
+🔮 Next Steps - The only thing left to do now is to setup a back-end per instructors advisse for our application for better persistant data which I will continue to do even after this course. 
 
 <br>
 
 Please discuss the following:  
 #### Changes
-- Discuss any changes or updates that you have made to your site since Milestone #3.
+- A few styling changes have been made due to using Tailwindcss but not much noticable, and other than that mainly fine tuning our styles and having a more professional adjusted look. 
 
 #### Styling
-- Discuss the process you used to style your page.
+- Tailwindcss is a great framework to refractor your project and helped downsize our entire application by over hald doing so. This was impressive and fun to not only implement but see physical changes and downsize for more compressed projects. I have chosen this framework specifically to help with time-management in order to get the project done correctly and on time. 
 
 #### Link To Overview Video
-- Once it is created, put the link to your overview video of your site here.
+- Microsoft Streams Link: 
+https://fullsailedu-my.sharepoint.com/:v:/g/personal/sfarmer1_student_fullsail_edu/EdAFzP-PlCpElCtVfNBUZHkB4yyFd_JMYOU6xhswavo-NA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yyLBqz
+
+Youtube Link:
+https://youtu.be/XThlumqyJVg?si=1py6we07CKqHCqc4
+
+LinkedIn Profile:
+www.linkedin.com/in/samuel-farmer-a9a9a7154
 
 <br>
 <br>
