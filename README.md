@@ -155,6 +155,8 @@ Please discuss the following:
 https://youtu.be/XThlumqyJVg?si=1py6we07CKqHCqc4
 - YouTube Channel:
 [www.youtube.com/@icepikcrxsi](https://www.youtube.com/@icepikcrxsi)
+
+
 LinkedIn Profile:
 www.linkedin.com/in/samuel-farmer-a9a9a7154
 
