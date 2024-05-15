@@ -1,0 +1,64 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.search-page {
+  position: relative;
+}
+
+.search-bar-container {
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  z-index: 2;
+}
+
+.search-bar {
+  background-color: rgba(58, 57, 57, 0.796);
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    font-size: 16px;
+    border: 6px solid rgba(7, 7, 7, 0.796);
+    color: rgb(141, 248, 141);
+}
+.next-page-button {
+  margin-top: 20px; 
+}
+
+.search-results-container {
+  position: absolute; 
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  z-index: 1;
+}
+
+.search-result {
+  width: 48%;
+  margin-bottom: 20px;
+}
+
+.next-page-button,
+.prev-page-button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px; 
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.next-page-button:hover,
+.prev-page-button:hover {
+  background-color: darkblue; 
+}
