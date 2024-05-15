@@ -151,12 +151,10 @@ Please discuss the following:
 - Tailwindcss is a great framework to refractor your project and helped downsize our entire application by over hald doing so. This was impressive and fun to not only implement but see physical changes and downsize for more compressed projects. I have chosen this framework specifically to help with time-management in order to get the project done correctly and on time. 
 
 #### Link To Overview Video
-- Microsoft Streams Link: 
-https://fullsailedu-my.sharepoint.com/:v:/g/personal/sfarmer1_student_fullsail_edu/EdAFzP-PlCpElCtVfNBUZHkB4yyFd_JMYOU6xhswavo-NA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yyLBqz
-
-Youtube Link:
+- YouTube Link:
 https://youtu.be/XThlumqyJVg?si=1py6we07CKqHCqc4
-
+- YouTube Channel:
+[www.youtube.com/@icepikcrxsi](https://www.youtube.com/@icepikcrxsi)
 LinkedIn Profile:
 www.linkedin.com/in/samuel-farmer-a9a9a7154
 
